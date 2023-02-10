@@ -6,4 +6,4 @@
 
 
 ### Reference
-[https://www.raddq.com/dicom-processing-segmentation-visualization-in-python/]
+[Dicom](https://www.raddq.com/dicom-processing-segmentation-visualization-in-python/)
