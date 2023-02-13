@@ -6,4 +6,4 @@ Making 3D image surface from 2D dicom images.
 
 
 ### Reference
-[Dicom](https://www.raddq.com/dicom-processing-segmentation-visualization-in-python/)
+[www.raddq.com](https://www.raddq.com/dicom-processing-segmentation-visualization-in-python/)
